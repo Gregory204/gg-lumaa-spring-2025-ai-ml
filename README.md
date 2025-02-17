@@ -151,6 +151,10 @@ Top 5 Recommended Movies:
 </table>
 </div>
 
+## Video Tutorial
+
+[![Simple Content Recommendation](https://img.youtube.com/vi/2EB3qWnFkcM/hqdefault.jpg)](https://www.youtube.com/watch?v=2EB3qWnFkcM)
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests with improvements or additional features! 🤝
