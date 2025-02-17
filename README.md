@@ -35,7 +35,7 @@ Clone the repository:
 git clone https://github.com/<yourusername>/gg-lumaa-spring-2025-ai-ml.git
 ```
 
-Should look like this afterwards for example:
+Should look like this afterwards in your terminal:
 
 ```bash
 (base) gregorygrullon@MacBookAir gg-lumaa-spring-2025-ai-ml %  
