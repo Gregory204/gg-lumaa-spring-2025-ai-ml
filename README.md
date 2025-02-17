@@ -32,8 +32,8 @@ However would be easier to just clone repository. 😁
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/<yourusername>/gg-lumaa-spring-2025-ai-ml.git
+cd gg-lumaa-spring-2025-ai-ml
 ```
 
 Create and activate a virtual environment:
