@@ -33,7 +33,12 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/<yourusername>/gg-lumaa-spring-2025-ai-ml.git
-cd gg-lumaa-spring-2025-ai-ml
+```
+
+Should look like this afterwards for example:
+
+```bash
+(base) gregorygrullon@MacBookAir gg-lumaa-spring-2025-ai-ml %  
 ```
 
 Create and activate a virtual environment:
