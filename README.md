@@ -48,6 +48,11 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
+Make sure terminal looks like this before installing dependencies (if using Virtual Enviornment):
+```bash
+(venv) (base) gregorygrullon@MacBookAir gg-lumaa-spring-2025-ai-ml %  
+```
+
 Install dependencies:
 
 ```bash
