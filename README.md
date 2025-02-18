@@ -151,6 +151,11 @@ Top 5 Recommended Movies:
 </table>
 </div>
 
+## Salary Expectation
+
+### [$2000 - $2400] monthly
+
+
 ## Video Tutorial
 
 [![Simple Content Recommendation](https://img.youtube.com/vi/2EB3qWnFkcM/hqdefault.jpg)](https://www.youtube.com/watch?v=2EB3qWnFkcM)
